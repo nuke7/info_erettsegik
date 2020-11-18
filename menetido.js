@@ -12,7 +12,7 @@ function menetidoPercben() {
   if (perc === 0) {
     alert("Ugyanott vagy te idióta!");
   } else {
-    alert(`A menetidő: ${perc}`);
+    alert(`A menetidő: ${perc} perc.`);
   }
 }
 
